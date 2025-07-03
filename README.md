@@ -25,7 +25,7 @@ A Node.js backend service that uses the Replicate API with the IDM-VTON model to
     <td><b>After</b></td>
   </tr>
   <tr>
-    <td><img src="sample/product.png" alt="Before" width="300"/></td>
+    <td><img src="sample/before.png" alt="Before" width="300"/></td>
     <td><img src="sample/after.jpg" alt="After" width="300"/></td>
   </tr>
 </table> 
