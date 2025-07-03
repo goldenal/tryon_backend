@@ -17,7 +17,7 @@ A Node.js backend service that uses the Replicate API with the IDM-VTON model to
 
 
 **Product Image (from Jumia online store):**  
-<img src="uploads/product.png" alt="Product" width="300"/>
+<img src="sample/product.png" alt="Product" width="300"/>
 
 <table>
   <tr>
@@ -25,8 +25,8 @@ A Node.js backend service that uses the Replicate API with the IDM-VTON model to
     <td><b>After</b></td>
   </tr>
   <tr>
-    <td><img src="uploads/product.png" alt="Before" width="300"/></td>
-    <td><img src="uploads/after.jpg" alt="After" width="300"/></td>
+    <td><img src="sample/product.png" alt="Before" width="300"/></td>
+    <td><img src="sample/after.jpg" alt="After" width="300"/></td>
   </tr>
 </table> 
 
