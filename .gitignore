@@ -13,10 +13,10 @@ yarn-error.log*
 
 # Uploads
 uploads/
-*.jpg
-*.jpeg
-*.png
-*.webp
+# *.jpg
+# *.jpeg
+# *.png
+# *.webp
 
 # Logs
 logs
