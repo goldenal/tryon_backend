@@ -1,3 +1,4 @@
+
 # Virtual Try-On Backend
 
 A Node.js backend service that uses the Replicate API with the IDM-VTON model to generate virtual try-on images. The service supports adding extra context to the generated images through text prompts and integrates with Firebase Storage for scalable file management.
@@ -12,6 +13,22 @@ A Node.js backend service that uses the Replicate API with the IDM-VTON model to
 - 📊 Comprehensive error handling and logging
 - 🏥 Health check endpoints
 - 🔄 Async prediction status tracking
+
+
+
+**Product Image (from Jumia online store):**  
+<img src="uploads/product.png" alt="Product" width="300"/>
+
+<table>
+  <tr>
+    <td><b>Before</b></td>
+    <td><b>After</b></td>
+  </tr>
+  <tr>
+    <td><img src="uploads/product.png" alt="Before" width="300"/></td>
+    <td><img src="uploads/after.jpg" alt="After" width="300"/></td>
+  </tr>
+</table> 
 
 ## Prerequisites
 
@@ -413,4 +430,5 @@ For issues and questions:
 
 - [Replicate](https://replicate.com) for the IDM-VTON model
 - [IDM-VTON](https://github.com/cuuupid/idm-vton) model creators
-- [Firebase](https://firebase.google.com) for cloud storage services 
+- [Firebase](https://firebase.google.com) for cloud storage services
+
